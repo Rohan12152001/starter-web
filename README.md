@@ -8,4 +8,5 @@ Sample website with plenty of files for demos
 
 ### Learning Git & Github
 
-Learning.
+Learning. 
+Adding To see how to use difftool
