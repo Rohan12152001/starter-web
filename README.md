@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 
 Learning. 
 Adding To see how to use difftool
+Adding text to compare in rebasing
