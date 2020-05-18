@@ -8,6 +8,8 @@
 # THANKS
 
     Random thanks
+	
+	SOme text to use git stash -u.
 
 # TECHNOLOGY COLOPHON
 
