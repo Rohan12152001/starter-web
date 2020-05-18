@@ -12,3 +12,6 @@ Learning.
 Adding To see how to use difftool
 
 Adding text to compare in rebasing
+
+##Copyright
+All rights reserved.
